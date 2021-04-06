@@ -1,0 +1,43 @@
+_repo: La-cite-de-l-epouvantable-nuit_64952
+_version: 0.0.1
+alternative_title: The city of dreadful night. French
+contributor:
+  translator:
+    agent_name: Savine, Albert
+    alias: Savine, Alberto
+    birthdate: 1859
+    deathdate: 1927
+    gutenberg_agent_id: '8201'
+    url: http://www.gutenberg.org/2009/agents/8201
+    wikipedia: https://fr.wikipedia.org/wiki/Albert_Savine
+creator:
+  author:
+    agent_name: Kipling, Rudyard
+    aliases:
+    - Kipling, Joseph Rudyard
+    - Kipling, R. (Rudyard)
+    birthdate: 1865
+    deathdate: 1936
+    gutenberg_agent_id: '132'
+    url: http://www.gutenberg.org/2009/agents/132
+    wikipedia: https://en.wikipedia.org/wiki/Rudyard_Kipling
+description: ''
+gutenberg_issued: '2021-03-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '64952'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Kolkata (India) -- Social life and customs'
+- !lcc 'DS'
+- !lcc 'PR'
+- GITenberg
+tableOfContents: Préface -- Une cité de la vie réelle -- Les réflexions d'un sauvage
+  -- L'assemblée des Dieux -- Sur les rives du Hughli -- Avec la police de Calcutta
+  -- Chez les Iniquités -- Plus bas, toujours plus bas -- Au sujet de Lucia -- De
+  Calcutta à Hong-Kong.
+title: La cité de l'épouvantable nuit
+url: http://www.gutenberg.org/ebooks/64952
